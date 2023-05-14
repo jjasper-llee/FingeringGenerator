@@ -12,5 +12,6 @@ The system is as follows for the cello:
 (2, E2)
 (3, F2)
 (4, F#2)
+etc.
 
 
