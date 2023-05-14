@@ -7,7 +7,7 @@ _I'm a cellist myself, so I am starting with the instrument I'm most familiar wi
 The system is as follows for the cello:
 
 (Note #, Actual Note)
-(0, C2)
+(0, C2) /n
 (1, D2)
 (2, E2)
 (3, F2)
