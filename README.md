@@ -61,7 +61,7 @@ The system is as follows for the cello:
 etc.'
       
 ## Figure 1.3
-`def cello(notes):
+def cello(notes):
     # initialize the dynamic programming table
     dp = [[None] * 4 for _ in range(len(notes))] # 4 is the number of fingers on a hand
     dp[0][0] = {'fingers': [1], 'cost': 0}
@@ -125,7 +125,7 @@ etc.'
             best_fingers = dp[-1][i]['fingers']
             best_cost = dp[-1][i]['cost']
     
-    return best_fingers`
+    return best_fingers
 
 _I'm a cellist myself, so I am starting with the instrument I'm most familiar with. I will, of course, add other instruments later_
 
